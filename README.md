@@ -27,7 +27,7 @@ Postgresql is used in this program. You can find the necessary jar file for post
 
 > https://jdbc.postgresql.org/download.html
 
-Or you can use a different database/s but for this to work, change:
+Or you can use a different database/sss but for this to work, change:
 
 ```
 DriverManager.getConnection("jdbc:database://host:port/database-name", "user-name", "password");
